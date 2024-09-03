@@ -31,7 +31,7 @@ This project is built to be a breeze to customize. Here’s how you can make it 
     <h1>Do You Like Adventures?</h1>
     ```
 
-- **Customize the Buttons**: Want to change the "Yes" and "No" to something more creative? Go for it! Edit the button labels directly in the `index.html` file. Check it out [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.htm#L12-L13).
+- **Customize the Buttons**: Want to change the "Yes" and "No" to something more creative? Go for it! Edit the button labels directly in the `index.html` file. Check it out [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.html#L12-L13).
 
     ```html
     <button id="yesButton">Absolutely!</button>
