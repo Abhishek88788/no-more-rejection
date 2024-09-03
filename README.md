@@ -13,7 +13,7 @@ Getting started with this project is as easy as saying "Yes!"
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/no-more-rejection.git
+    git clone https://github.com/Abhishek88788/no-more-rejection.git
     cd no-more-rejection
     ```
 
@@ -25,20 +25,20 @@ Now, watch your friends try (and fail) to reject you. 😜
 ## 🎨 Make It Your Own
 This project is built to be a breeze to customize. Here’s how you can make it truly yours:
 
-- **Change the Question**: Don’t like "Do You Love Me?" No problem! Make it "Will You Be My Friend?" or "Do You Like Pizza?"—whatever suits your style. Just update the `<h1>` in `index.html`. You can view and edit it directly on GitHub [here](https://github.com/yourusername/no-more-rejection/blob/main/index.html#L7).
+- **Change the Question**: Don’t like "Do You Love Me?" No problem! Make it "Will You Be My Friend?" or "Do You Like Pizza?"—whatever suits your style. Just update the `<h1>` in `index.html`. You can view and edit it directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.html#L7).
 
     ```html
     <h1>Do You Like Adventures?</h1>
     ```
 
-- **Customize the Buttons**: Want to change the "Yes" and "No" to something more creative? Go for it! Edit the button labels directly in the `index.html` file.
+- **Customize the Buttons**: Want to change the "Yes" and "No" to something more creative? Go for it! Edit the button labels directly in the `index.html` file. Check it out [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.html#L8-L9).
 
     ```html
     <button id="yesButton">Absolutely!</button>
     <button id="noButton">No Way!</button>
     ```
 
-- **Spice Up the Alert Message**: The alert message when clicking "Yes" has been updated to be more fun and engaging. You can view and edit the JavaScript section directly on GitHub [here](https://github.com/yourusername/no-more-rejection/blob/main/script.js#L3).
+- **Spice Up the Alert Message**: The alert message when clicking "Yes" has been updated to be more fun and engaging. You can view and edit the JavaScript section directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/script.js#L3).
 
     ```javascript
     alert('🎉 Woohoo! You made the right choice! ❤️');
@@ -46,7 +46,7 @@ This project is built to be a breeze to customize. Here’s how you can make it 
 
     Feel free to change the text or add your own emojis to match your theme!
 
-- **Revamp the Look**: Dive into `styles.css` to switch up the colors, fonts, and overall vibe. You can view and edit the CSS section directly on GitHub [here](https://github.com/yourusername/no-more-rejection/blob/main/styles.css#L1).
+- **Revamp the Look**: Dive into `styles.css` to switch up the colors, fonts, and overall vibe. You can view and edit the CSS section directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/styles.css#L1).
 
     ```css
     body {
@@ -81,7 +81,7 @@ This project is built to be a breeze to customize. Here’s how you can make it 
     }
     ```
 
-- **Hack the Button’s Escape Plan**: The "No" button’s runaway behavior is coded in `script.js`. You can view and edit the JavaScript section directly on GitHub [here](https://github.com/yourusername/no-more-rejection/blob/main/script.js#L10).
+- **Hack the Button’s Escape Plan**: The "No" button’s runaway behavior is coded in `script.js`. You can view and edit the JavaScript section directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/script.js#L10).
 
     ```javascript
     // Move the "No" button to a random position when hovered over
