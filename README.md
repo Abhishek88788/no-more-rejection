@@ -100,7 +100,7 @@ This project is built to be a breeze to customize. Here’s how you can make it 
     ```
 
 ## 🌟 Live Demo
-See the magic in action! Check out the live demo [here](link-to-live-demo).
+See the magic in action! Check out the live demo [here](https://abhishek88788.github.io/no-more-rejection/).
 
 ## 📱 Limitations
 - **Mobile Devices**: The "No" button's behavior may vary on touchscreens, potentially affecting the user experience. For the best experience, it's recommended to view and interact with this project on a desktop or laptop.
