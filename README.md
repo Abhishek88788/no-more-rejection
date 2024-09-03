@@ -25,20 +25,20 @@ Now, watch your friends try (and fail) to reject you. 😜
 ## 🎨 Make It Your Own
 This project is built to be a breeze to customize. Here’s how you can make it truly yours:
 
-- **Change the Question**: Don’t like "Do You Love Me?" No problem! Make it "Will You Be My Friend?" or "Do You Like Pizza?"—whatever suits your style. Just update the `<h1>` in `index.html`. You can view and edit it directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.html#L7).
+- **Change the Question**: Don’t like "Do You Love Me?" No problem! Make it "Will You Be My Friend?" or "Do You Like Pizza?"—whatever suits your style. Just update the `<h1>` in `index.html`. You can view and edit it directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.html#L10).
 
     ```html
     <h1>Do You Like Adventures?</h1>
     ```
 
-- **Customize the Buttons**: Want to change the "Yes" and "No" to something more creative? Go for it! Edit the button labels directly in the `index.html` file. Check it out [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.html#L8-L9).
+- **Customize the Buttons**: Want to change the "Yes" and "No" to something more creative? Go for it! Edit the button labels directly in the `index.html` file. Check it out [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/index.htm#L12-L13).
 
     ```html
     <button id="yesButton">Absolutely!</button>
     <button id="noButton">No Way!</button>
     ```
 
-- **Spice Up the Alert Message**: The alert message when clicking "Yes" has been updated to be more fun and engaging. You can view and edit the JavaScript section directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/script.js#L3).
+- **Spice Up the Alert Message**: The alert message when clicking "Yes" has been updated to be more fun and engaging. You can view and edit the JavaScript section directly on GitHub [here](https://github.com/Abhishek88788/no-more-rejection/blob/main/script.js#L6).
 
     ```javascript
     alert('🎉 Woohoo! You made the right choice! ❤️');
