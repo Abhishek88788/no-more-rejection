@@ -26,5 +26,12 @@ button {
 }
 
 #noButton {
+    position: relative;
     transition: all 0.5s ease;
+}
+
+#noButton::before {
+    content: "";
+    position: absolute;
+    inset: -50px;
 }
